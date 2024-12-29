@@ -14,15 +14,15 @@ export default function Hero() {
           <div className="text-center max-w-4xl mx-auto space-y-8">
             <h1 className="text-5xl sm:text-6xl md:text-7xl font-extrabold text-white tracking-tight">
               <span className="block">
-                Create Incredible
+                Stunning AI Photography
               </span>
               <span className="block">
-                Ad-Ready <span className="bg-gradient-to-r from-brand-blue to-brand-amethyst text-transparent bg-clip-text">Photography</span>
+               <span className="bg-gradient-to-r from-brand-blue to-brand-amethyst text-transparent bg-clip-text">Zero Learning Curve</span>
               </span>
             </h1>
             
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-              In less time than it'll take you to read the copy on this website. Beautiful AI photography, for those who know nothing about AI.
+            Professional, ad-ready images in seconds. No experience needed, just bring a great idea.
             </p>
 
             <div className="flex justify-center">
